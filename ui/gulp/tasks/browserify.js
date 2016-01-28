@@ -6,7 +6,7 @@ var config = require('../gulp.config').browserify,
     rename = require('gulp-rename'),
     uglify = require('gulp-uglify'),
     sourcemaps = require('gulp-sourcemaps'),
-    bundle = require('bundle'),
+    //bundle = require('bundle'),
     source = require('vinyl-source-stream'),
     connect = require('gulp-connect');
 
