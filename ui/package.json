@@ -1,0 +1,40 @@
+{
+  "name": "webseed",
+  "version": "0.0.1",
+  "description": "seed to start a front end web project; based on angularjs, browserify, gulp",
+  "main": "app.js",
+  "style": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jv",
+  "license": "ISC",
+  "devDependencies": {
+    "angular": "^1.4.9",
+    "angular-ui-bootstrap": "^1.1.1",
+    "angular-ui-router": "^0.2.17",
+    "babelify": "^7.2.0",
+    "bootstrap": "^3.3.6",
+    "browserify": "^13.0.0",
+    "bundle": "^0.2.3",
+    "gulp": "^3.9.0",
+    "gulp-angular-templatecache": "^1.8.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^2.3.1",
+    "gulp-flatten": "^0.2.0",
+    "gulp-less": "^3.0.5",
+    "gulp-livereload": "^3.8.1",
+    "gulp-ng-annotate": "^1.1.0",
+    "gulp-open": "^1.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-rimraf": "^0.2.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.1",
+    "gulp-util": "^3.0.7",
+    "require-dir": "^0.3.0",
+    "run-sequence": "^1.1.5",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
