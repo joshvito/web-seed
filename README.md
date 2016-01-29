@@ -5,4 +5,3 @@ A starter front end project template
 * Browserify for bundling
 * Includes angularJS, angular-ui-bootstrap, angular-ui-router
 
-ToDO: add some documentation?!
